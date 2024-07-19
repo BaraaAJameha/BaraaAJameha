@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Bara'ah Abu Ajameha
 - 💻 Front-end developer 
-- 👀 I’m interested in C#/ASP.NET, Full-Stack (.NET and AngularJS)!
+- 👀 I’m interested in HTML/CSS/JS , Front end (React)!
 -  To communicate : baraaajameha@gmail.com 
 - [leetCode](https://leetcode.com/Baraah_Ajameha/)
 - [linkedin](https://www.linkedin.com/in/bara-ah-abu-ajameha-966824251)
