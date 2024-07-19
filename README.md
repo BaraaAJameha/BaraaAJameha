@@ -8,6 +8,10 @@
 
 
 **Skills:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,flutter,discord,vscode,eclipse,docker,figma,cpp,java" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,react,flutter,discord,vscode,eclipse,docker,figma,cpp,java&perline=3)](https://skillicons.dev)
 
