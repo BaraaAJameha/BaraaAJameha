@@ -11,10 +11,10 @@
 
 ###
 
-<p align="left">I'm currently learning react <br><br>I’m interested in HTML/CSS/JS/Flutter , Front end (React)!</p>
+<p align="left"> -I'm currently learning react <br><br> -I’m interested in HTML/CSS/JS/Flutter , Front end (React)!</p>
 
 ###
-
+<h3 align="left">I code with : </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
