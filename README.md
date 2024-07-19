@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Bara'ah Abu Ajameha
+-  Front-end developer 💻
+
+-  To communicate : baraaajameha@gmail.com 
+
 
 <!--
 **BaraaAJameha/BaraaAJameha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
