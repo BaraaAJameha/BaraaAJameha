@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Bara'ah and I'm a front end developer , from Bethlehem, Palestine</p>
+<p align="left">My name is Bara'ah and I'm a front end developer </p>
 
 ###
 
