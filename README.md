@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left"> -I'm currently learning front end  <br><br> -I’m interested in HTML/CSS/JS/Flutter , Front end (React)!</p>
+<p align="left"> -I'm currently learning react  <br><br> -I’m interested in HTML/CSS/JS/Flutter , Front end (React)!</p>
 <h3 align="left">To communicate :</h3>
 
 ###
