@@ -3,15 +3,10 @@
 
 ###
 
-<p align="left">My name is Bara'ah and I'm a front end developer </p>
+<p align="left">My name is Bara'ah and I'm a Software Engineer </p>
+
 
 ###
-
- <h3 align="left"> 🎯 About me</h3>
-
-###
-
-<p align="left"> -I'm currently learning react  <br><br> -I’m interested in HTML/CSS/JS/Flutter , Front end (React)!</p>
 <h3 align="left">To communicate :</h3>
 
 ###
